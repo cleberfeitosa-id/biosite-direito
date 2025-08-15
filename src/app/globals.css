@@ -39,9 +39,9 @@
   /* Gradiente do herói */
   --hero-gradient: radial-gradient(
     60% 80% at 50% 0%,
-    oklch(78% 6% 265deg) 0%,
-    oklch(62% 10% 275deg) 45%,
-    oklch(48% 12% 288deg) 100%
+    oklch(78% 0.05 250deg) 0%,    /* Azul claro acinzentado */
+    oklch(55% 0.07 250deg) 45%,   /* Azul petróleo */
+    oklch(35% 0.05 250deg) 100%   /* Azul-marinho profundo */
   );
 }
 

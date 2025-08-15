@@ -9,14 +9,14 @@ import { cn } from "@/lib/utils";
 
 export default function Home() {
   const profile = {
-    name: "Sandra Pinho",
+    name: "Mateus Feitoza",
     tagline:
-      "Soluções em Contabilidade para você e seu negócio. Atendimento personalizado, consultoria e serviços contábeis completos.",
+      "Defendendo seus direitos com ética e excelência. Pautado na justiça e na verdade, somos a ponte entre você e a solução.",
     avatarUrl: "/avatar.webp",
-    instagram: "https://instagram.com/fiscontarsolucoescontabeis",
-    whatsapp: "https://wa.me/5588997379659?text=Ol%C3%A1%2C+vim+do+biosite",
+    instagram: "https://instagram.com/ronaldomateus_",
+    whatsapp: "https://wa.me/5588999999999?text=Ol%C3%A1%2C+vim+do+biosite",
     linkedin:
-      "https://www.linkedin.com/in/fiscontar-solu%C3%A7%C3%B5es-cont%C3%A1beis-8ab354372/",
+      "https://www.linkedin.com/in/ronaldomateus/",
     footer: "Powered by Feitosa Engenharia WebFactory",
   };
 
